@@ -1,8 +1,6 @@
 <img align="center" alt="cover" width="1200" height="300" src="https://indoanalytica.com/static/images/bannerr.gif">
 <h1 align="center">Hi 👋, I'm Guillermo, but yo can call me Sirius (yes, the brightest star in the night sky)</h1>
 
-<p align="left"> <a href="https://twitter.com/@bradley_dev22" target="blank"><img src="https://img.shields.io/twitter/follow/@bradley_dev22?logo=twitter&style=for-the-badge" alt="@bradley_dev22" /></a> </p>
-
 - 🔭 I’m currently seeking for my first job!
 
 - 🌱 I’m currently learning **Redux Toolkit, Mongo DB, React Native**
