@@ -1,4 +1,6 @@
-<img align="center" alt="cover" width="1000" height="300" src="https://cdn.pixabay.com/animation/2022/11/16/14/56/14-56-49-778_512.gif">
+<img align="center" alt="cover" width="1200" height="350" src="https://p4.wallpaperbetter.com/wallpaper/550/945/135/nebula-4k-8k-hd-wallpaper-preview.jpg">
+<p>Orion Nebula by Hubble</p>
+
 <h1 align="center">Hi 👋, I'm Guillermo, but you can call me Sirius (yes, the brightest star in the night sky)</h1>
 
 - 🔭 I’m currently seeking for my first job!
